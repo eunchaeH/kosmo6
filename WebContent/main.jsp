@@ -7,6 +7,6 @@
 <title>main.jsp</title>
 </head>
 <body>
-	<h2>메인 페이지</h2>
+	<h2>메인 페이지입니다</h2>
 </body>
 </html>
